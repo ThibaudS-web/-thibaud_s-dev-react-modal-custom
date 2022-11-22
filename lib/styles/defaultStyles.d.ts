@@ -49,9 +49,5 @@ export declare const defaultStyle: {
             transform: string;
         };
     };
-    footer: {
-        display: string;
-        justifyContent: string;
-        padding: string;
-    };
+    footer: {};
 };
