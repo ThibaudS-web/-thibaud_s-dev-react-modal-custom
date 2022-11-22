@@ -1,0 +1,23 @@
+{
+	"name": "@thibaud_s-dev/react-modal-custom",
+	"version": "0.7.0",
+	"description": "A customizable modal for React users",
+	"main": "./lib/index.js",
+	"types": "./lib/index.d.ts",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"author": "thibaud_s-dev",
+	"license": "ISC",
+	"files": [
+		"lib/**/*"
+	],
+	"dependencies": {
+		"react": "^18.2.0",
+		"styled-components": "^5.3.6"
+	},
+	"devDependencies": {
+		"@types/react-dom": "^18.0.9",
+		"@types/styled-components": "^5.1.26"
+	}
+}
