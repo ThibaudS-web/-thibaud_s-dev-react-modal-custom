@@ -1,5 +1,5 @@
 {
-	"name": "thibaud_s-dev-react-modal-custom",
+	"name": "@thibaudS-web/thibaud_s-dev-react-modal-custom",
 	"version": "0.10.0",
 	"description": "A customizable modal for React users",
 	"main": "./lib/index.js",
