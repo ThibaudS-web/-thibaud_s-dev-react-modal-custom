@@ -4,6 +4,9 @@
 	"description": "A customizable modal for React users",
 	"main": "./lib/index.js",
 	"types": "./lib/index.d.ts",
+	"publishConfig": {
+		"registry": "https://npm.pkg.github.com/@ThibaudS-web"
+	},
 	"scripts": {
 		"test": "echo \"Error: no test specified\" && exit 1"
 	},
@@ -38,3 +41,4 @@
 	},
 	"homepage": "https://github.com/ThibaudS-web/thibaud_s-dev-react-modal-custom#readme"
 }
+
