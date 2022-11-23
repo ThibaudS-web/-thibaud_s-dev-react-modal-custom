@@ -10,7 +10,7 @@
 	"scripts": {
 		"test": "echo \"Error: no test specified\" && exit 1"
 	},
-	"author": "Thibaud_s-dev",
+	"author": "thibaud_s-dev",
 	"license": "ISC",
 	"files": [
 		"lib/**/*"
