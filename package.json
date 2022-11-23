@@ -1,5 +1,5 @@
 {
-	"name": "@thibaud_s-dev/react-modal-custom",
+	"name": "@Thibaud_s-dev/react-modal-custom",
 	"version": "0.10.0",
 	"description": "A customizable modal for React users",
 	"main": "./lib/index.js",
@@ -10,7 +10,7 @@
 	"scripts": {
 		"test": "echo \"Error: no test specified\" && exit 1"
 	},
-	"author": "thibaud_s-dev",
+	"author": "Thibaud_s-dev",
 	"license": "ISC",
 	"files": [
 		"lib/**/*"
