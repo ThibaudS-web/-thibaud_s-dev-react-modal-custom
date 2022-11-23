@@ -28,8 +28,6 @@ export const defaultStyle = {
 		padding: "0 1rem"
 	},
 	content: {
-		borderTop: "2px #b0b6af dotted",
-		borderBottom: "2px #b0b6af dotted",
 		textAlign: "center" as "center",
 		padding: "2rem 1rem",
 		marginBottom: "1rem",
@@ -38,7 +36,7 @@ export const defaultStyle = {
 	modalTitle: {
 		fontSize: "1.5rem",
 		fontWeight: "600",
-		color: "#6e8614"
+		color: "#000000"
 	},
 	close: {
 		fontSize: "1.1rem",
