@@ -1,11 +1,11 @@
 {
-	"name": "@Thibaud_s-dev/react-modal-custom",
+	"name": "@thibaud_s-dev/react-modal-custom",
 	"version": "0.10.0",
 	"description": "A customizable modal for React users",
 	"main": "./lib/index.js",
 	"types": "./lib/index.d.ts",
 	"publishConfig": {
-		"registry": "https://npm.pkg.github.com/@ThibaudS-web"
+		"registry": "https://npm.pkg.github.com/@thibaudS-web"
 	},
 	"scripts": {
 		"test": "echo \"Error: no test specified\" && exit 1"
