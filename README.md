@@ -30,5 +30,9 @@ A fully customizable modal. Each part of it can be changed (header, body, footer
 | containerStyle|object|No|Allows to override the default style of the modal container| { "@media(max-width: 450px)": { width: "100%" } } 
 | footerStyle | object  |No|Allows to override the default style of the modal footer| { display: "flex", 	justifyContent: "space-between", 	padding: "0 1rem" }
 
+### Concrete example
+<img width="920" alt="useCase_modal" src="https://user-images.githubusercontent.com/66798720/203508938-3bfc97c6-9079-47b5-9efd-b4e9df42106f.png">
+
+
 
 
