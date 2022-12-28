@@ -7,7 +7,7 @@ A fully customizable modal. Each part of it can be changed (header, body, footer
 ## How to use
 <img width="742" alt="raycast-untitled (1)" src="https://user-images.githubusercontent.com/66798720/203497711-cc033855-9e72-4213-a183-a6d56e42bc18.png">
 
-## Modal parameter
+## Modal parameters
 
 ### Global parameters
 | Parameter    | value     | Required |Description   | 
