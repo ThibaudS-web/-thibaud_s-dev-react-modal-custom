@@ -28,8 +28,6 @@ export declare const defaultStyle: {
         padding: string;
     };
     content: {
-        borderTop: string;
-        borderBottom: string;
         textAlign: "center";
         padding: string;
         marginBottom: string;
