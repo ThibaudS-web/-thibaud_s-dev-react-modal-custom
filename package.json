@@ -1,6 +1,6 @@
 {
 	"name": "thibaud_s-dev-react-modal-custom",
-	"version": "1.0.0",
+	"version": "1.0.1",
 	"description": "A customizable modal for React users",
 	"main": "./lib/index.js",
 	"types": "./lib/index.d.ts",
