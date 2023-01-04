@@ -1,4 +1,4 @@
-# Description
+## Description
 A fully customizable modal. Each part of it can be changed (header, body, footer), style and content.
 
 ## Installation
